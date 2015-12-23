@@ -30,6 +30,7 @@ Download this repository and consult the [Alloy Documentation](http://docs.appce
 ### Methods
 
 * setView(View[])
+* setHeight(value) -- you can set initial height as property and modify later with this method
 * setCurrentPage(Number)
 * moveNext -- goes to next page
 * movePrevious -- goes to previous page
